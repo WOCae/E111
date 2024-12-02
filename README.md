@@ -1,5 +1,5 @@
 E111
-<img src="./images/E111_pic.png">
+<img src="./images/E111_pic.png"/>
 <p align="center">
   <img src="./images/E111_pic.png" alt="判定画像" width="300"/>
 </p>
